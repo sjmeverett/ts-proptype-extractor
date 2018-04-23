@@ -1,6 +1,6 @@
 {
   "name": "ts-proptype-extractor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Extract ambient TypeScript declarations from components with proptypes",
   "main": "extract.js",
   "bin": {
