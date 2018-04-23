@@ -1,0 +1,40 @@
+{
+  "name": "ts-proptype-extractor",
+  "version": "0.1.0",
+  "description": "Extract ambient TypeScript declarations from components with proptypes",
+  "main": "extract.js",
+  "bin": {
+    "ts-proptype-extractor": "./extract.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stewart Everett <stewartml@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "lodash": "^4.17.5",
+    "react": "^16.3.2",
+    "typescript": "^2.8.3",
+    "typescript-formatter": "^7.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stewartml/ts-proptype-extractor.git"
+  },
+  "keywords": [
+    "ts",
+    "typescript",
+    "prop-types",
+    "proptypes",
+    "extract",
+    "extractor",
+    "types",
+    "definitions"
+  ],
+  "bugs": {
+    "url": "https://github.com/stewartml/ts-proptype-extractor/issues"
+  },
+  "homepage": "https://github.com/stewartml/ts-proptype-extractor#readme"
+}
