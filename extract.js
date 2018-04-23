@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const Module = require('module');
 const React = require('react');
 const _ = require('lodash');
